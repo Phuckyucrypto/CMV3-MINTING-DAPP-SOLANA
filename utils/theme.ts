@@ -1,4 +1,5 @@
 import { extendTheme } from '@chakra-ui/react';
+import React from 'react';
 
 const customTheme = extendTheme({
   styles: {

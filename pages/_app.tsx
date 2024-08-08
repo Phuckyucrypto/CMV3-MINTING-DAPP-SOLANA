@@ -10,7 +10,7 @@ import "@solana/wallet-adapter-react-ui/styles.css";
 import { ChakraProvider } from '@chakra-ui/react'
 import { image, headerText } from 'settings'
 import { SolanaTimeProvider } from "@/utils/SolanaTimeContext";
-import customTheme from './theme'; // Adjust the import path
+import customTheme from '../utils/theme'; // Adjust the import path
 
 
 export default function App({ Component, pageProps }: AppProps) {
