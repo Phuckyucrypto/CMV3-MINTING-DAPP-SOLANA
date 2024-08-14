@@ -5,18 +5,21 @@ export const allowLists = new Map<string, Array<string>> ([
     [
       "4vRnHa9nLAYtRwjfk5eMdL6Lp6df31d8wasr18pUfMsz",
       "D7rqGLTZkFUDgeyVTQioY9WTpKgDuWLQPQMhXaYrdhQr",
-      "CqXTBoz9nrkb115XSU5MGwuE6qbSWbmG8MkQnCPB68WB"
+      "4vRnHa9nLAYtRwjfk5eMdL6Lp6df31d8wasr18pUfMsz",
+      "ZupsZq7o5HdXjdH47PGgS56YaZJuvSkxu6mHnkd1nSJ"
     ]],
     ["OG",
     [
       "4vRnHa9nLAYtRwjfk5eMdL6Lp6df31d8wasr18pUfMsz",
       "D7rqGLTZkFUDgeyVTQioY9WTpKgDuWLQPQMhXaYrdhQr",
-      "CqXTBoz9nrkb115XSU5MGwuE6qbSWbmG8MkQnCPB68WB"
+      "4vRnHa9nLAYtRwjfk5eMdL6Lp6df31d8wasr18pUfMsz",
+      "ZupsZq7o5HdXjdH47PGgS56YaZJuvSkxu6mHnkd1nSJ"
     ]],
     ["default",
     [
       "4vRnHa9nLAYtRwjfk5eMdL6Lp6df31d8wasr18pUfMsz",
       "D7rqGLTZkFUDgeyVTQioY9WTpKgDuWLQPQMhXaYrdhQr",
-      "CqXTBoz9nrkb115XSU5MGwuE6qbSWbmG8MkQnCPB68WB"
+      "4vRnHa9nLAYtRwjfk5eMdL6Lp6df31d8wasr18pUfMsz",
+      "ZupsZq7o5HdXjdH47PGgS56YaZJuvSkxu6mHnkd1nSJ"
     ]],
 ]);
