@@ -1,8 +1,8 @@
 // Purpose: Contains texts that will be used in the UI when rendering the buttons
 // label has to be the exact same as in your candy machine config
 export const mintText = [
-  { label: "FCFS", mintText: "FCFS Phase FREE MINT", buttonLabel: "Mint now!", header: "WL Mint" },
-  { label: "GTD", mintText: "GUARENTEED Phase FREE MINT", buttonLabel: "Mint now!", header: "OG Mint" },
+  { label: "FCFS", mintText: "FCFS Phase FREE MINT", buttonLabel: "Mint now!", header: "FCFS Mint" },
+  { label: "GTD", mintText: "GTD Phase FREE MINT", buttonLabel: "Mint now!", header: "GTD Mint" },
   { label: "Public", mintText: "PUBLIC Phase FREE MINT", buttonLabel: "Mint now!", header: "Public Mint" },
   { label: "default", mintText: "default mintText", buttonLabel: "Mint now!", header: "Default"}
 ];
